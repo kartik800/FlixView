@@ -8,7 +8,6 @@ A responsive movie and TV show streaming platform using React and Redux, allowin
 FlixView Search Functionality (React, Redux, and API Integration):
 Created a robust search functionality within the FlixView website, leveraging React, Redux, and API integration. Enabled users to quickly search and discover movies and TV shows by implementing a comprehensive search engine that dynamically filters content based on user input. Effectively managed state using Redux, optimizing performance and ensuring real-time search results for an enhanced user experience.
 
-![Uploading Capture.PNG…]()
 
 ![Capture2](https://github.com/kartik800/FlixView/assets/54595695/70e4d88f-8c70-4774-9505-adb49e9c5620)
 
